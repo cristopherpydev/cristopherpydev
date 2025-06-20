@@ -7,8 +7,9 @@ Apasionado de la programación desde que tenía 17 añitos; aprender es una disc
 Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé :P!
 
 ### [Mi Portafolio Web](https://cristopherpydev.github.io/)
-- Sitio personal con mis proyectos, contacto y CV.
-- **Tecnologías:** Python, PyQT6, HTML, CSS, JavaScript, MySQL, PostgreSQL, XML, Dart
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40" style="vertical-align: middle;" alt="matrix rain code"/>
+
 
 ## Tecnologías que uso
 
