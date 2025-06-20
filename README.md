@@ -1,14 +1,16 @@
-# Hola, soy Cristopher, alias R3D.
+# Hola, soy Cristopher, alias R3D
 
 Soy desarrollador Full Stack apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan frontend creativo con backend sólido.
 
-## 🚀 Proyectos Destacados
+Apasionado de la programación desde que tenía 17 añitos; aprender es una disciplina y una devoción. 
 
 ### [Mi Portafolio Web](https://cristopherpydev.github.io/)
 - Sitio personal con mis proyectos, contacto y CV.
 - **Tecnologías:** Python, PyQT6, HTML, CSS, JavaScript, MySQL, PostgreSQL, XML, Dart
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso
+<img src="https://media.giphy.com/media/tuGifElegido/giphy.gif" width="300"/>
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?logo=qt&logoColor=fff)
@@ -24,8 +26,8 @@ Soy desarrollador Full Stack apasionado por la tecnología, el diseño limpio y 
 
 ## 📫 Contacto
 
-- 📧 [tucorreo@email.com](mailto:cristopherpydev@protonmail.com)
-- 🌐 [tuportafolio.com](https://cristopherpydev.github.io/))
+- 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
+- 🌐 [Mi portfolio web](https://cristopherpydev.github.io/)
   
 ---
 
