@@ -4,6 +4,8 @@ Soy desarrollador Full Stack apasionado por la tecnología, el diseño limpio y 
 
 Apasionado de la programación desde que tenía 17 añitos; aprender es una disciplina y una devoción. 
 
+Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé :P!
+
 ### [Mi Portafolio Web](https://cristopherpydev.github.io/)
 - Sitio personal con mis proyectos, contacto y CV.
 - **Tecnologías:** Python, PyQT6, HTML, CSS, JavaScript, MySQL, PostgreSQL, XML, Dart
