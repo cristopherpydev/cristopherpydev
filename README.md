@@ -8,7 +8,7 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 
 ### [Mi Portafolio Web](https://cristopherpydev.github.io/)
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40" style="vertical-align: middle;" alt="matrix rain code"/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8" width="40" style="vertical-align: middle;" alt="matrix rain code"/>
 
 
 ## Tecnologías que uso
