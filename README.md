@@ -9,7 +9,6 @@ Apasionado de la programación desde que tenía 17 añitos; aprender es una disc
 - **Tecnologías:** Python, PyQT6, HTML, CSS, JavaScript, MySQL, PostgreSQL, XML, Dart
 
 ## Tecnologías que uso
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40" style="vertical-align: middle;"/>
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
@@ -24,7 +23,7 @@ Apasionado de la programación desde que tenía 17 añitos; aprender es una disc
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
 
 
-## 📫 Contacto
+## Contacto
 
 - 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
 - 🌐 [Mi portfolio web](https://cristopherpydev.github.io/)
