@@ -24,6 +24,8 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 ![XML](https://img.shields.io/badge/-XML-8A2BE2?logo=xml&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+
 
 
 ## Contacto
