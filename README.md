@@ -1,8 +1,8 @@
 # Hola, soy Cristopher, alias R3D
 
-Soy desarrollador Full Stack apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan frontend creativo con backend sólido.
+Soy desarrollador Full Stack especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan frontend creativo con backend sólido.
 
-Apasionado de la programación desde que tenía 17 añitos; aprender es una disciplina y una devoción. 
+Un frikazo de la programación desde que tenía 17 añitos; aprender es una disciplina y una devoción. 
 
 Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé :P!
 
