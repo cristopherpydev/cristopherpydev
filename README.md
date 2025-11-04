@@ -26,7 +26,14 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 
+## Mis mejores repositorios
 
+A lo largo de mi trayectoria como programador he estado desarrollando prototipos y simulaciones. Desde aplicaciones de consola hasta aplicaciones con interfaz gráfica. ¿Quieres verlos? ¡Haz clic inmediatamente en cualquiera de los enlaces que se muestran a continuación!
+
+* Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL -> ![enlace]()
+* Dados de rol interactivos con HTML5, CSS y JavaScript -> ![enlace]()
+* Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib -> ![enlace]()
+* Calculadora de gastos semanales con PHP + CSS -> ![enlace]()
 
 ## Contacto
 
