@@ -32,6 +32,7 @@ A lo largo de mi trayectoria como programador he estado desarrollando prototipos
 
 * Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL -> [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
 * Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib -> ¡EN CONSTRUCCIÓN!
+* Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP -> [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
 * Calculadora de gastos semanales con PHP + CSS -> [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 
 ## Mis aportaciones a la comunidad
