@@ -30,15 +30,15 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 
 A lo largo de mi trayectoria como programador he estado desarrollando prototipos y simulaciones. Desde aplicaciones de consola hasta aplicaciones con interfaz gráfica. ¿Quieres verlos? ¡Haz clic inmediatamente en cualquiera de los enlaces que se muestran a continuación!
 
-* Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL -> [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
-* Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib -> ¡EN CONSTRUCCIÓN!
-* Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP -> [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
-* Calculadora de gastos semanales con PHP + CSS -> [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
+* Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL ➤ [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
+* Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib ➤ ¡EN CONSTRUCCIÓN!
+* Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP ➤ [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
+* Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 
 ## Mis aportaciones a la comunidad
 
 Me encanta poder aportar un granito de arena para contribuir al desarrollo de un ecosistema de programadores creativos y habilidosos. Dejo algunas de mis mejores aportaciones y contribuciones:
-* Overview tutorial de JavaScript - From zero to hero! -> [Haz clic aqui](https://github.com/cristopherpydev/javascript-overview)
+* Overview tutorial de JavaScript - From zero to hero! ➤ [Haz clic aqui](https://github.com/cristopherpydev/javascript-overview)
 ## Contacto
 
 - 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
