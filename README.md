@@ -2,9 +2,11 @@
 
 Soy desarrollador especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan creatividad y lógica.
 
-Un frikazo de la programación desde que tenía 17 añitos; aprender es una disciplina y una devoción. 
+Si alguien me pregunta quien soy, siempre digo que soy un frikazo de la programación, y eso viene ya desde pequeñito. Desde que iba al instituto, sabía que lo mío eran los ordenadores; fue entonces cuando quise aprender a programar y desarrollar todo mi potencial como constructor y arquitecto de aplicaciones. 
 
-Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé :P!
+Para mi, aprender es una disciplina y una devoción. Todos los días dedico parte de mi tiempo libre en investigar nuevos caminos hacia un mayor entendimiento. Soy una persona demasiado comprometida con el conocimiento, y nunca paro de aprender.
+
+Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé ☕!
 
 ### [Mi Portafolio Web](https://cristopherpydev.github.io/)
 
@@ -22,8 +24,6 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![XML](https://img.shields.io/badge/-XML-8A2BE2?logo=xml&logoColor=fff)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 
 ## Mis mejores repositorios
