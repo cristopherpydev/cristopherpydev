@@ -15,6 +15,8 @@ Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creat
 
 ## Tecnologías que uso
 
+Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial y mejorar como programador. A continuación, listo las tecnologías con las que más cómodo me encuentro:
+
 ### Lenguajes y tecnologías de backend
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
