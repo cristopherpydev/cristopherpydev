@@ -1,6 +1,6 @@
 # ¡Hola! ¿Qué tal?
 
-Mi nombre es Cristopher, pero para la mayoría de mis aplicativos suelo firmar con el alias de R3D, una referencia a mi juego de Pokémon favorito.
+Mi nombre es Cristopher, pero para la mayoría de mis aplicativos suelo firmar con el alias o nick de R3D.
 
 Soy desarrollador especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan creatividad y lógica.
 
