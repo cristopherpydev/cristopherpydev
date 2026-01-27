@@ -1,4 +1,6 @@
-# Hola, soy Cristopher, alias R3D
+# ¡Hola! ¿Qué tal?
+
+Mi nombre es Cristopher, pero para la mayoría de mis aplicativos suelo firmar con el alias de R3D, una referencia a mi juego de Pokémon favorito.
 
 Soy desarrollador especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan creatividad y lógica.
 
@@ -42,6 +44,8 @@ A lo largo de mi trayectoria como programador he estado desarrollando prototipos
 
 * Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL ➤ [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
 * Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib ➤ ¡EN CONSTRUCCIÓN!
+* Simulación de app gestora de academia utilizando Flet para la capa de Front y Python + PyMongo para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
+* APP gestora de mazos de Magic: The Gathering utilizando React Native para la capa del Front y JavaScript para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
 * Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP ➤ [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
 * Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 
