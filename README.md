@@ -48,6 +48,7 @@ A lo largo de mi trayectoria como programador he estado desarrollando prototipos
 * APP gestora de mazos de Magic: The Gathering utilizando React Native para la capa del Front y JavaScript para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
 * Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP ➤ [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
 * Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
+* Módulo CRM Odoo para la simulación de una clínica veterinaria ➤ ¡EN CONSTRUCCIÓN!
 
 ## Mis aportaciones a la comunidad
 
