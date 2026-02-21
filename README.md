@@ -10,11 +10,6 @@ Para mi, aprender es una disciplina y una devoción. Todos los días dedico part
 
 Si lo que necesitas es un poquito de buen rollito, mucha profesionalidad y creatividad a mansalva puedes contar conmigo. ¡Te invito a que me conozcas y nos tomemos juntos un cibercafé ☕!
 
-### [Mi Portafolio Web](https://cristopherpydev.github.io/)
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29xZ2N4bmw0c2VjbWdnZXZzMmt1aHpjeDY2YmU1dTB0dWNyZ2E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" style="vertical-align: middle;" alt="matrix rain code"/>
-
-
 ## Tecnologías que uso
 
 Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial y mejorar como programador. A continuación, listo las tecnologías con las que más cómodo me encuentro:
