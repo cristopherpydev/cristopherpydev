@@ -28,8 +28,6 @@ Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial 
 ![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
