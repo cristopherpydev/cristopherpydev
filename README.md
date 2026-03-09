@@ -50,7 +50,6 @@ Me encanta poder aportar un granito de arena para contribuir al desarrollo de un
 ## Contacto
 
 - 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
-- 🌐 [Mi portfolio web](https://cristopherpydev.github.io/)
   
 ---
 
