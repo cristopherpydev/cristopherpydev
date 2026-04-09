@@ -1,4 +1,5 @@
-# ¡Hola! ¿Qué tal?
+# ¡Hola! ¿Qué tal? 
+![Alt Text](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 
 Mi nombre es Cristopher, pero para la mayoría de mis aplicativos suelo firmar con el alias o nick de R3D.
 
