@@ -48,7 +48,7 @@ A lo largo de mi trayectoria como programador he estado desarrollando prototipos
 
 Me encanta poder aportar un granito de arena para contribuir al desarrollo de un ecosistema de programadores creativos y habilidosos. Dejo algunas de mis mejores aportaciones y contribuciones:
 * Overview tutorial de JavaScript - From zero to hero! ➤ [Haz clic aqui](https://github.com/cristopherpydev/javascript-overview)
-* Basic QT Designer and UIX Building approachal / Nociones básicas de QT Designer y aproximación al diseño de interfaces ➤ ¡EN CONSTRUCCIÓN!
+* Basic QT Designer and UIX Building approachal / Nociones básicas de QT Designer y aproximación al diseño de interfaces ➤ [Haz clic aqui](https://github.com/cristopherpydev/qt-uix-tutorial)
 ## Contacto
 
 - 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
