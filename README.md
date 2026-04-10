@@ -37,12 +37,12 @@ Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial 
 A lo largo de mi trayectoria como programador he estado desarrollando prototipos y simulaciones. Desde aplicaciones de consola hasta aplicaciones con interfaz gráfica. ¿Quieres verlos? ¡Haz clic inmediatamente en cualquiera de los enlaces que se muestran a continuación!
 
 * Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL ➤ [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
-* Análisis de datos utilizando técnicas de web scraping y exportación de datos con Python, BeautifulSoup, Pandas y Matplotlib ➤ ¡EN CONSTRUCCIÓN!
-* Simulación de app gestora de academia utilizando Flet para la capa de Front y Python + PyMongo para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
-* APP gestora de mazos de Magic: The Gathering utilizando React Native para la capa del Front y JavaScript para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
 * Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP ➤ [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
 * Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 * Módulo CRM Odoo para la simulación de una clínica veterinaria ➤ ¡EN CONSTRUCCIÓN!
+* Simulación de app gestora de academia utilizando Flet para la capa de Front y Python + PyMongo para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
+* Página web para SweetAlchemy, un e-commerce de postres tradicionales utilizando para ello Django + Sqlite3 + Stack Web completo (HTML + CSS + JavaScript) ➤ ¡EN CONSTRUCCIÓN!
+
 
 ## Mis aportaciones a la comunidad
 
