@@ -64,7 +64,7 @@ A lo largo de mi trayectoria como programador he estado desarrollando prototipos
 * Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 * Módulo CRM Odoo para la simulación de una clínica veterinaria ➤ ¡EN CONSTRUCCIÓN!
 * Simulación de app gestora de academia utilizando Flet para la capa de Front y Python + PyMongo para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
-* Página web para SweetAlchemy, un e-commerce de postres tradicionales utilizando para ello Django + Sqlite3 + Stack Web completo (HTML + CSS + JavaScript) ➤ ¡EN CONSTRUCCIÓN!
+* Página web para SweetAlchemy, un e-commerce de postres tradicionales utilizando para ello Django + Sqlite3 + Stack Web completo (HTML + CSS + JavaScript + Bootstrap) ➤ ¡EN CONSTRUCCIÓN!
 
 
 ## Mis aportaciones a la comunidad
