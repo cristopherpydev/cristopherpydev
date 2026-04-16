@@ -51,6 +51,10 @@ Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
 
+### Actualmente aprendiendo de manera autodidacta...
+
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 ## Mis mejores repositorios
 
 A lo largo de mi trayectoria como programador he estado desarrollando prototipos y simulaciones. Desde aplicaciones de consola hasta aplicaciones con interfaz gráfica. ¿Quieres verlos? ¡Haz clic inmediatamente en cualquiera de los enlaces que se muestran a continuación!
