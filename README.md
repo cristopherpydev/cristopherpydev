@@ -77,8 +77,9 @@ Me encanta poder aportar un granito de arena para contribuir al desarrollo de un
 * Basic QT Designer and UIX Building approachal / Nociones básicas de QT Designer y aproximación al diseño de interfaces ➤ [Haz clic aqui](https://github.com/cristopherpydev/qt-uix-tutorial)
 ## Contacto
 
-- 📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
-  
+📧 [cristopherpydev@protonmail.com](mailto:cristopherpydev@protonmail.com)
+
+<a href="https://wikipedia.com" target=_blank>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
