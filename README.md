@@ -3,7 +3,7 @@
 
 Mi nombre es Cristopher, pero para la mayoría de mis aplicativos suelo firmar con el alias o nick de R3D.
 
-Soy desarrollador especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan creatividad y lógica.
+Soy desarrollador Full Stack especializado en Python, apasionado por la tecnología, el diseño limpio y las soluciones efectivas. Me encanta crear proyectos que combinan creatividad y lógica.
 
 Si alguien me pregunta quien soy, siempre digo que soy un frikazo de la programación, y eso viene ya desde pequeñito. Desde que iba al instituto, sabía que lo mío eran los ordenadores; fue entonces cuando quise aprender a programar y desarrollar todo mi potencial como constructor y arquitecto de aplicaciones. 
 
@@ -51,21 +51,23 @@ Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white)
 
+### Otras herramientas y lenguajes de utilidad
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 ### Actualmente aprendiendo de manera autodidacta...
 
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## Mis mejores repositorios
 
 A lo largo de mi trayectoria como programador he estado desarrollando prototipos y simulaciones. Desde aplicaciones de consola hasta aplicaciones con interfaz gráfica. ¿Quieres verlos? ¡Haz clic inmediatamente en cualquiera de los enlaces que se muestran a continuación!
 
-* Reproductor multimedia local con Python, QTDesigner, SQLAlchemy y PostgreSQL ➤ [Haz clic aqui](https://github.com/cristopherpydev/reproductor-de-musica-en-Python)
 * Tema de Wordpress, funcional y personalizado, dedicado a un repositorio de juegos de PS2 / Hierarchy WP + PHP ➤ [Haz clic aqui](https://github.com/cristopherpydev/PSNation)
 * Calculadora de gastos semanales con PHP + CSS ➤ [Haz clic aqui](https://github.com/cristopherpydev/calculadora-gastos-semanales)
 * Módulo CRM Odoo para la simulación de una clínica veterinaria ➤ ¡EN CONSTRUCCIÓN!
 * Simulación de app gestora de academia utilizando Flet para la capa de Front y Python + PyMongo para la capa del Back ➤ ¡EN CONSTRUCCIÓN!
 * Página web para SweetAlchemy, un e-commerce de postres tradicionales utilizando para ello Django + Sqlite3 + Stack Web completo (HTML + CSS + JavaScript + Bootstrap) ➤ ¡EN CONSTRUCCIÓN!
-
 
 ## Mis aportaciones a la comunidad
 
