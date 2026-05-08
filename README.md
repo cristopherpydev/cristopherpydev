@@ -24,6 +24,7 @@ Elijo bien mis herramientas de trabajo para poder desempeñar todo mi potencial 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Lenguajes y tecnologías de frontend
 
